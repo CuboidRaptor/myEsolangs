@@ -9,4 +9,4 @@ The first version of PRNGP was scrapped.<br>
 
 [PRNGP2](https://esolangs.org/wiki/PRNGP2)<br>
 
-[Esolangs menu]("../")
+<a href="/../../tree/main">Esolangs Menu</a>
