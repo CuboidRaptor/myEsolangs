@@ -10,4 +10,6 @@ Have fun modding this! (if you want)<br>
 And, since I got bored, I also made ppi.exe, which is an interpreter/shell for pP.<br>
 [source/PPI.py](source/PPI.py) is the source.<br>
 
-[pP](https://esolangs.org/wiki/PP)
+[pP](https://esolangs.org/wiki/PP)<br>
+
+[Esolangs menu]("../")

@@ -1,4 +1,7 @@
-with open(".\\\\in_estimate.py", "r") as f:
+#Write your code in in.py, and this program will measure
+#the length of the UPE equivalent of your python3 script.
+
+with open(".\\\\in.py", "r") as f:
     x = f.read()
     yay = "1"
     
@@ -15,4 +18,4 @@ with open(".\\\\in_estimate.py", "r") as f:
             
         yay += str(yee)
         
-    print("in_estimate prog size: " + str("{:,}".format(int(yay))) + " zeroes in UPE!")
+    print("in.py UPE prog size: " + str("{:,}".format(int(yay))) + " zeroes in UPE!")

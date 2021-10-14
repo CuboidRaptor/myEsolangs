@@ -10,7 +10,7 @@ Hello World program would be even worse.<br>
 
 The shortest program I could think of in python (since UPE is based on Python) is "pass", which is 1,112,097,115,115 zeroes in a row.<br>
 
-I also made a thingy, where when you type Python code into in_estimate.py, and run test.py, it prints the length of the UPE equivalent.<br>
+I also made a thingy, where when you type Python code into [in.py](in.py), and run [length_calculator.py](length_calculator.py), it prints the length of the UPE equivalent.<br>
 
 A CAT Program would contain 1,112,114,105,110,116,040,105,110,112,117,116,040,034,034,041,041 zeroes.<br>
 A program that does nothing but repeat infinitely would have 1,119,104,105,108,101,032,084,114,117,101,058,010,032,032,032,032,112,097,115,115 zeroes.<br>
@@ -24,4 +24,6 @@ Check out [the stats for more dumb program lengths](__STATS__.txt)!<br>
 
 [Source](upei.py)<br>
 
-[UPE](https://esolangs.org/wiki/UPE)
+[UPE](https://esolangs.org/wiki/UPE)<br>
+
+[Esolangs menu](../)
