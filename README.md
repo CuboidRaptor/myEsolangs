@@ -2,4 +2,5 @@
 # myEsolangs
 a repo full of the trashy esolangs I've made. <br> 
 [pP](GPPC/) <br>
-[UPE](UPE/)
+[UPE](UPE/)<br>
+[PRNGP2](PRNGP2/)
