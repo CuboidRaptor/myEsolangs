@@ -1,0 +1,4 @@
+Credits to the developers of Python and C++, this dumb thingy was made possible by them.
+Credits to the developers of the libraries I used.
+Credits to ME!!! for writing the sourcee code.
+And finally, credits to you for using the trash I make.
