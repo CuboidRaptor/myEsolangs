@@ -27,6 +27,30 @@ try:
         with open(os.path.abspath(p("./a.cpp")), "w") as g:
             g.write("""//Generated py GPPC
 #include <iostream>
+int println(std::string a)
+{
+    try
+    {
+        std::cout << a << std::endl;
+        return 0;
+    } catch (...)
+    {
+        return 1;
+    }
+}
+
+int pause()
+{
+    try
+    {
+        int stahp;
+        std::cin >> stahp;
+        return 0;
+    } catch (...)
+    {
+        return 1;
+    }
+}
 
 int main()
 {
@@ -35,9 +59,9 @@ int main()
         
         with open(os.path.abspath(p("./a.cpp")), "a") as g:
             for item in list(yay):
-                g.write("\tstd::cout << \"Hello, world!\" << std::endl;\n")
+                g.write("\tprintln(\"Hello, world!\");\n")
                 
-            g.write("\n\tint stahp;\n\tstd::cin >> stahp;\n\treturn 0;\n}")
+            g.write("\n\tpause();\n\treturn 0;\n}")
             g.close()
             
 except FileNotFoundError:

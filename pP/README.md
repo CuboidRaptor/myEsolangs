@@ -4,11 +4,13 @@ Yay?<br>
 Do feel free to check out [the credits](__CREDITS__.txt).<br>
 
 To demonstrate how dumb this esolang is, I included a hello world program (main.ppsc)<br>
-Also, [source/GPPC.py](source/GPPC.py) is the source code for the compiler.<br>
+Also, [GPPC.py](GPPC.py) is the source code for the compiler.<br>
 Have fun modding this! (if you want)<br>
 
 And, since I got bored, I also made ppi.exe, which is an interpreter/shell for pP.<br>
-[source/PPI.py](source/PPI.py) is the source code for the interpreter shell.<br>
+[PPI.py](PPI.py) is the source code for the interpreter shell.<br>
+
+A Hello World program is included [here](main.ppsc)
 
 [pP](https://esolangs.org/wiki/PP)<br>
 
