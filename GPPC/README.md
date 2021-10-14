@@ -12,4 +12,4 @@ And, since I got bored, I also made ppi.exe, which is an interpreter/shell for p
 
 [pP](https://esolangs.org/wiki/PP)<br>
 
-<a href="../">Esolangs Menu</a>
+<a href="../../tree/main">Esolangs Menu</a>
