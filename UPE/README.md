@@ -26,4 +26,4 @@ Check out [the stats for more dumb program lengths](__STATS__.txt)!<br>
 
 [UPE](https://esolangs.org/wiki/UPE)<br>
 
-<a href="/../../tree/main">Esolangs Menu</a>
+<a href="/../../tree/main">My Esolangs</a>
